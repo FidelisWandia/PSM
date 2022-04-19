@@ -1,0 +1,45 @@
+body{
+    margin: 10px;
+}
+
+#innerdiv{
+    width: 50%;
+    margin: auto;
+    background: plum;
+    border-radius: 5px;
+    padding:20px;
+}
+
+#innerdiv > *{
+    margin-top: 15px;
+}
+
+#input-el{
+    box-sizing:border-box;
+    padding: 10px;
+    border: 1px solid rgb(76, 76, 104);
+    border-radius: 5px;
+}
+
+#button{
+    padding: 5px;
+    border: none;
+    background: paleturquoise;
+    font-weight:bold;
+    border-radius: 5px;
+}
+
+#delete-btn{
+    padding:5px;
+    background-color: maroon;
+    border:none;
+    color:white;
+    font-weight:bold;
+    border-radius: 5px;
+}
+
+
+
+
+
+
